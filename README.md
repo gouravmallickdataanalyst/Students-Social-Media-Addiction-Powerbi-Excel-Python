@@ -267,12 +267,12 @@ folder.
 
 Recommended screenshots:
 
-1. Executive Overview
-2. Mental Health & Lifestyle
-3. Academic Impact
-4. Relationships & Conflicts
-5. Interactive Story View
-6. Student Profile
+1. Executive Overview    🔗 View Executive Overview
+2. Mental Health & Lifestyle    🔗 View Mental Health & Lifestyle Dashboard
+3. Academic Impact    🔗 View Academic Impact Dashboard
+4. Relationships & Conflicts    🔗 View Relationships & Conflicts Dashboard
+5. Interactive Story View    🔗 View Interactive Story View
+6. Student Profile    🔗 View Student Profile
 ---
 # 💡 Analytical Value
 
