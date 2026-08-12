@@ -217,7 +217,7 @@ students-social-media-addiction-powerbi/
 └── Documentation/
     └── project_flow.png
 ```
-📸 Dashboard Preview
+# 📸 Dashboard Preview
 
 The project contains six interactive Power BI dashboard sections.
 
