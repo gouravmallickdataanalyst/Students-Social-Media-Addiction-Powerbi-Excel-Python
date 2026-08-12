@@ -377,7 +377,7 @@ This project demonstrates practical skills in:
 ---
 # 🔗 Project Links
 
-**LinkedIn:** [Paste LinkedIn Profile Link]
+**LinkedIn:** [(https://lnkd.in/p/d5aXWhGK)]
 
 ---
 
