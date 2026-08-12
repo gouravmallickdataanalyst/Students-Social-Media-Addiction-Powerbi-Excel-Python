@@ -217,95 +217,22 @@ students-social-media-addiction-powerbi/
 └── Documentation/
     └── project_flow.png
 ```
-# 📸 Dashboard Preview
+📸 Dashboard Preview
 
-The project contains six interactive Power BI dashboard sections.
+Dashboard screenshots are available inside the:
 
-### 1️⃣ Executive Overview
+Dashboard/
 
-[![Executive Overview](Dashboard/overview.png)](Dashboard/overview.png)
+folder.
 
-**[🔗 View Executive Overview](Dashboard/overview.png)**
+Recommended screenshots:
 
-Provides a high-level summary of student social media usage, including KPIs, gender distribution, average usage by age, and addicted score by academic level.
-
----
-
-### 2️⃣ Mental Health & Lifestyle
-
-[![Mental Health & Lifestyle](Dashboard/mental_health_lifestyle.png)](Dashboard/mental_health_lifestyle.png)
-
-**[🔗 View Mental Health & Lifestyle Dashboard](Dashboard/mental_health_lifestyle.png)**
-
-Analyzes addicted score, mental health, sleep hours, usage patterns, age, and gender.
-
----
-
-### 3️⃣ Academic Impact
-
-[![Academic Impact](Dashboard/academic_impact.png)](Dashboard/academic_impact.png)
-
-**[🔗 View Academic Impact Dashboard](Dashboard/academic_impact.png)**
-
-Analyzes average daily usage by academic level and academic performance impact across social media platforms.
-
----
-
-### 4️⃣ Relationships & Conflicts
-
-[![Relationships & Conflicts](Dashboard/relationships_conflicts.png)](Dashboard/relationships_conflicts.png)
-
-**[🔗 View Relationships & Conflicts Dashboard](Dashboard/relationships_conflicts.png)**
-
-Explores conflict levels, relationship status distribution, countries, and academic-level comparisons.
-
----
-
-### 5️⃣ Interactive Story View
-
-[![Interactive Story View](Dashboard/interactive_story_view.png)](Dashboard/interactive_story_view.png)
-
-**[🔗 View Interactive Story View](Dashboard/interactive_story_view.png)**
-
-Uses Power BI bookmarks to switch between:
-
-* Gender View
-* Academic View
-* Most Used Platform analysis
-* Average Daily Usage analysis
-
----
-
-### 6️⃣ Student Profile
-
-[![Student Profile](Dashboard/student_profile.png)](Dashboard/student_profile.png)
-
-**[🔗 View Student Profile](Dashboard/student_profile.png)**
-
-Provides student-level drill-through analysis including:
-
-* Student ID
-* Gender
-* Age
-* Country
-* Academic Level
-* Sleep Hours
-* Usage Hours
-* Addicted Score
-* Most Used Platform
-* Conflicts
-* Mental Health Rating
-
----
-
-### 📊 Project Flow
-
-[![Project Flow](Documentation/project_flow.png)](Documentation/project_flow.png)
-
-**[🔗 View Project Flow](Documentation/project_flow.png)**
-
-Shows the complete workflow from data preparation and modeling to DAX analysis, Power BI visualization, and interactive reporting.
-
+Executive Overview
+Mental Health & Lifestyle
+Academic Impact
+Relationships & Conflicts
+Interactive Story View
+Student Profile
 ---
 # 💡 Analytical Value
 
