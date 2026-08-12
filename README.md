@@ -385,4 +385,3 @@ This project demonstrates practical skills in:
 
 If you find this project interesting or useful, consider giving the repository a ⭐ on GitHub.
 
-**One important recommendation:** before uploading, replace the two `[Paste ...]` placeholders with your actual GitHub repository and LinkedIn links. Also, only keep the `Dataset/` section if you actually have the original dataset available.
