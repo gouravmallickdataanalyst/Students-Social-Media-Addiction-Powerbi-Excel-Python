@@ -377,7 +377,7 @@ This project demonstrates practical skills in:
 ---
 # 🔗 Project Links
 
-**LinkedIn:** [(https://lnkd.in/p/d5aXWhGK)]
+**LinkedIn:** [https://www.linkedin.com/in/gourav-mallick-6824b4422/](https://lnkd.in/p/d5aXWhGK)
 
 ---
 
