@@ -12,7 +12,9 @@ The **Students Social Media Addiction Dashboard** is an interactive Power BI dat
 The project transforms student-level data into an interactive dashboard that allows users to explore patterns across **age, gender, academic level, country, relationship status, and social media platform**.
 
 The dashboard also includes **interactive storytelling, slicers, navigation, and drill-through functionality** for detailed student-level analysis.
+
 ---
+
 ## 🎯 Project Objectives
 
 The main objectives of this project are to:
